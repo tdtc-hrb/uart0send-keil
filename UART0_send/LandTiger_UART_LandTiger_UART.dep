@@ -1,0 +1,7 @@
+Dependencies for Project 'LandTiger_UART', Target 'LandTiger_UART': (DO NOT MODIFY !)
+F (.\Source\CMSIS\CM3\CoreSupport\core_cm3.c)(0x4DD0E2A4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "D:\Keil\MDK4\ARM\CMSIS\Include" -I "D:\Keil\MDK4\ARM\INC\NXP\LPC17xx" -o ".\Obj\core_cm3.o" --omf_browse ".\Obj\core_cm3.crf" --depend ".\Obj\core_cm3.d")
+F (.\Source\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.c)(0x4DA50242)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx -o ".\Obj\system_lpc17xx.o" --omf_browse ".\Obj\system_lpc17xx.crf" --depend ".\Obj\system_lpc17xx.d")
+F (.\Source\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\startup\arm\startup_LPC17xx.s)(0x4DA50240)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx --list ".\List\startup_LPC17xx.lst" --xref -o ".\Obj\startup_LPC17xx.o" --depend ".\Obj\startup_LPC17xx.d")
+F (.\Source\App\main.c)(0x5084BB9C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx -o ".\Obj\main.o" --omf_browse ".\Obj\main.crf" --depend ".\Obj\main.d")
+F (.\Source\App\uart.c)(0x4E5BB177)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC17xx -o ".\Obj\uart.o" --omf_browse ".\Obj\uart.crf" --depend ".\Obj\uart.d")
+F (.\Source\readme.txt)(0x4C11C48A)()

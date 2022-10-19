@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\obj\system_lpc17xx.o" ".\obj\startup_lpc17xx.o" ".\obj\main.o" ".\obj\uart.o" 
+--strict --scatter ".\Obj\uart0send.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\List\uart0send.map" -o .\Obj\uart0send.axf

@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\embedPrjs\uart0send\uart0send.uvproj
+Project File Date:  11/20/2012
+
+<h2>Output:</h2>
+Rebuild target 'DebugInFlash'
+compiling system_LPC17xx.c...
+assembling startup_LPC17xx.s...
+compiling main.c...
+compiling uart.c...
+linking...
+Program Size: Code=2636 RO-data=496 RW-data=4 ZI-data=612  
+".\Obj\uart0send.axf" - 0 Error(s), 0 Warning(s).
